@@ -1,2 +1,1 @@
-This is an image classification project. Convolutional Neural Network(CNN) was used here to train a model that can recognize a type
-from multiple types of image data. To run this code, google colab was used. 
+This is an image classification project. Convolutional Neural Network(CNN) was used here to train a model that can recognize a type from multiple types of image data. To run this code, google colab was used. 
